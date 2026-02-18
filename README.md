@@ -238,6 +238,7 @@
 
 ## TypeScript 
 
+- [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
