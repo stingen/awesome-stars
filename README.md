@@ -106,6 +106,7 @@
 
 ## Kotlin 
 
+- [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 - [AyraHikari/HealthConnect_to_HomeAssistant](https://github.com/AyraHikari/HealthConnect_to_HomeAssistant) - Sync your Android Health Connect API to Home Assistant as entity
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
 - [DouglasMartins1999/AppleTVForAndroid](https://github.com/DouglasMartins1999/AppleTVForAndroid) - A WebView Client to AppleTV Plus
@@ -138,6 +139,7 @@
 
 ## Python 
 
+- [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
 - [joeblack2k/wyze-native](https://github.com/joeblack2k/wyze-native) - 
 - [lasselian/prism-desktop](https://github.com/lasselian/prism-desktop) - A customizable desktop dashboard for Home Assistant.
