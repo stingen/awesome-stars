@@ -284,6 +284,8 @@
 
 ## others 
 
+- [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
+- [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
 - [joeblack2k/wyze-native](https://github.com/joeblack2k/wyze-native) - 
