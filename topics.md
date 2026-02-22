@@ -83,7 +83,7 @@
 
 ## api 
 
-- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
+- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 
@@ -408,7 +408,7 @@
 ## python 
 
 - [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2025/26 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
-- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
+- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [hyugogirubato/DVDFabExtendedDownload](https://github.com/hyugogirubato/DVDFabExtendedDownload) - Easily download specific DVDFab software versions. Supports Windows and macOS across multiple DVDFab products.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
