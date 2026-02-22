@@ -152,7 +152,7 @@
 - [IsakJacobsson/udisc-stats-analyzer](https://github.com/IsakJacobsson/udisc-stats-analyzer) - Analyze your UDisc stats
 - [Ducky705/AutoFliff](https://github.com/Ducky705/AutoFliff) - 
 - [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
-- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
+- [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [Richardvaio/Tautulli_Active_Streams](https://github.com/Richardvaio/Tautulli_Active_Streams) - Real time tracking of media details, user activity, playback progress and so much more.
 - [minisotan/ESPNFantasyFootballDiscordBot](https://github.com/minisotan/ESPNFantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
