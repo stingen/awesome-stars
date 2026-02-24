@@ -139,6 +139,7 @@
 
 ## Python 
 
+- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
 - [joeblack2k/wyze-native](https://github.com/joeblack2k/wyze-native) - 
