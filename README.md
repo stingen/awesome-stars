@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [globetvapp/epg](https://github.com/globetvapp/epg) - Free EPG guides by country. Please free to donate us on the below website. Thank you!
 - [mrwhitwork-bit/Disc_Golf_Tracker](https://github.com/mrwhitwork-bit/Disc_Golf_Tracker) - This project will be an open source cheap code and hardware to build a disc golf tracking sensor
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
@@ -139,6 +140,7 @@
 
 ## Python 
 
+- [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
