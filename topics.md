@@ -76,6 +76,7 @@
 
 ## android 
 
+- [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -286,6 +287,7 @@
 
 ## others 
 
+- [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
