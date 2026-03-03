@@ -219,6 +219,7 @@
 
 ## home-assistant 
 
+- [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
@@ -287,6 +288,7 @@
 
 ## others 
 
+- [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
