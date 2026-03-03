@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [globetvapp/epg](https://github.com/globetvapp/epg) - Free EPG guides by country. Please free to donate us on the below website. Thank you!
 - [mrwhitwork-bit/Disc_Golf_Tracker](https://github.com/mrwhitwork-bit/Disc_Golf_Tracker) - This project will be an open source cheap code and hardware to build a disc golf tracking sensor
@@ -140,6 +141,7 @@
 
 ## Python 
 
+- [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
 - [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
