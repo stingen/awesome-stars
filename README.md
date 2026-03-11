@@ -77,7 +77,6 @@
 ## JavaScript 
 
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - A convenient tool for Home Assistant that provides quick access to your smart home devices from your desktop.
@@ -148,6 +147,7 @@
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
 - [joeblack2k/wyze-native](https://github.com/joeblack2k/wyze-native) - 
 - [lasselian/prism-desktop](https://github.com/lasselian/prism-desktop) - A customizable desktop dashboard for Home Assistant.
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [wmoss/ha-wyzeapi](https://github.com/wmoss/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [willcm/ps5-time-management](https://github.com/willcm/ps5-time-management) - 
 - [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2025/26 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
