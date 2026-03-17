@@ -76,6 +76,7 @@
 
 ## JavaScript 
 
+- [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
@@ -140,6 +141,9 @@
 
 ## Python 
 
+- [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
+- [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
+- [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
 - [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
