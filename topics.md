@@ -289,6 +289,10 @@
 
 ## others 
 
+- [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
+- [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
+- [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
+- [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
 - [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
