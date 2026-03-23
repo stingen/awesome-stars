@@ -211,7 +211,7 @@
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [cubicbyte/reddit-account-generator](https://github.com/cubicbyte/reddit-account-generator) - Automatically generate reddit accounts
 - [Veritas1000/pdst](https://github.com/Veritas1000/pdst) - DVR & sports tools that work with Plex
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [jfarmer08/ha-wyzeapi](https://github.com/jfarmer08/ha-wyzeapi) - Home Assistant Integration for Wyze Bulbs and Switches
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [vasqued2/ha-teamtracker](https://github.com/vasqued2/ha-teamtracker) - Home Assistant integration that provides real-time scores in multiple professional (NBA, NFL, NHL, MLB, MLS, and more), college (NCAA), and international (soccer, golf, tennis, mma, racing) sports usi
