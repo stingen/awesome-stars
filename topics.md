@@ -231,7 +231,7 @@
 - [Nerwyn/universal-remote-card](https://github.com/Nerwyn/universal-remote-card) - A completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box.
 - [FunkeyFlo/ps5-mqtt](https://github.com/FunkeyFlo/ps5-mqtt) - Integrate your PlayStation 5 with Home Assistant
 - [vasqued2/ha-teamtracker](https://github.com/vasqued2/ha-teamtracker) - Home Assistant integration that provides real-time scores in multiple professional (NBA, NFL, NHL, MLB, MLS, and more), college (NCAA), and international (soccer, golf, tennis, mma, racing) sports usi
-- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
+- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 
 ## homebridge 
@@ -484,7 +484,7 @@
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
+- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows
 
 
 ## License
