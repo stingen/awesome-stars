@@ -221,7 +221,7 @@
 - [brah/plex-bot](https://github.com/brah/plex-bot) - Hobby project to interact with Plex through the Tautulli API for fun commands on your Discord server
 - [grantwenzinger/match-video](https://github.com/grantwenzinger/match-video) - A Python library that simplifies working with video from soccer matches.
 - [williameast/seed-dl](https://github.com/williameast/seed-dl) - A CLI tool to interface with public seedboxes. works with restricted, FTP only shared seedboxes at seedbox.io
-- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
+- [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows
 - [CecilioSilva/Plexy](https://github.com/CecilioSilva/Plexy) - Discord bot that connects your plex server to your discord server
 - [joesciii/pyGoalBot](https://github.com/joesciii/pyGoalBot) - Scrapes the reddit soccer subreddit for fresh goal videos and posts them to discord as they happen.
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.
