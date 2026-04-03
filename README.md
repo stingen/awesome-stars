@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
 - [WardsParadox/mlbgamedayha](https://github.com/WardsParadox/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
