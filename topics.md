@@ -72,7 +72,7 @@
 ## analytics 
 
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 
 ## android 
 
@@ -178,7 +178,7 @@
 
 ## docker 
 
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -442,7 +442,7 @@
 
 ## self-hosted 
 
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## server 
