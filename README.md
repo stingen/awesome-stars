@@ -131,6 +131,7 @@
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [Jnzzi/4464_L3-CDM](https://github.com/Jnzzi/4464_L3-CDM) - 
 - [sabersalv/awesome-pt](https://github.com/sabersalv/awesome-pt) - A curated list of awesome private tracker tools. PT工具集
+- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 
 ## PHP 
 
@@ -210,7 +211,6 @@
 - [zeroquinc/ServerBot](https://github.com/zeroquinc/ServerBot) - Discord Bot mainly for learning Python, can be used as Arrs and Plex notification agent
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) - 1Fichier Download Manager.
-- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [cubicbyte/reddit-account-generator](https://github.com/cubicbyte/reddit-account-generator) - Automatically generate reddit accounts
 - [Veritas1000/pdst](https://github.com/Veritas1000/pdst) - DVR & sports tools that work with Plex
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
