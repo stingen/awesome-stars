@@ -144,6 +144,7 @@
 
 ## Python 
 
+- [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
 - [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
