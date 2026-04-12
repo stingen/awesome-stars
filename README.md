@@ -82,7 +82,6 @@
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - A convenient tool for Home Assistant that provides quick access to your smart home devices from your desktop.
 - [adm1nsys/Ledvance-A60-Plugin](https://github.com/adm1nsys/Ledvance-A60-Plugin) - Plugin for local control Ledvance A60 E27 RGBW Bulb
-- [PaeyMoopy/PlexMate](https://github.com/PaeyMoopy/PlexMate) - A discord bot for notification and request handling in Plex and Overseerr.
 - [Bobsilvio/calcio-live-card](https://github.com/Bobsilvio/calcio-live-card) - HomeAssistant Card for Calcio-Live integration
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [pixel5/DiscBot](https://github.com/pixel5/DiscBot) - Discord bot for fetching information about disc golf discs
