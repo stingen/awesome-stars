@@ -345,7 +345,6 @@
 - [m0wmt/C3-bindicator](https://github.com/m0wmt/C3-bindicator) - Bindicator - deployed and in active use
 - [Darkxh/Fliff-Reminder-Bot](https://github.com/Darkxh/Fliff-Reminder-Bot) - 
 - [Connum/hass-ga-autoexpose](https://github.com/Connum/hass-ga-autoexpose) - Automatically exports all the exposed entities configured in Home Assistant's UI for Google Assistant if you are using a local integration instead of the cloud integration.
-- [PaeyMoopy/PlexMate](https://github.com/PaeyMoopy/PlexMate) - A discord bot for notification and request handling in Plex and Overseerr.
 - [UnderwaterOverground/Plex-Concierge](https://github.com/UnderwaterOverground/Plex-Concierge) - A demonstration of the connection between a Custom GPT and Overseerr
 - [fpr1m3/plex-chat](https://github.com/fpr1m3/plex-chat) - Local LLM powered chat with tools to work with Plex Media Server
 - [Bobsilvio/calcio-live](https://github.com/Bobsilvio/calcio-live) - HomeAssistant Integration for Football/Calcio - SerieA - Champions Langue and more
