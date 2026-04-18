@@ -61,6 +61,7 @@
 - [seydx/go2rtc](https://github.com/seydx/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
+- [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [robbydyer/sports](https://github.com/robbydyer/sports) - Raspberry Pi RGB Matrix controller for Sports Scoreboards (and others), written in Go
 
@@ -174,7 +175,6 @@
 - [Connum/hass-ga-autoexpose](https://github.com/Connum/hass-ga-autoexpose) - Automatically exports all the exposed entities configured in Home Assistant's UI for Google Assistant if you are using a local integration instead of the cloud integration.
 - [fpr1m3/plex-chat](https://github.com/fpr1m3/plex-chat) - Local LLM powered chat with tools to work with Plex Media Server
 - [Bobsilvio/calcio-live](https://github.com/Bobsilvio/calcio-live) - HomeAssistant Integration for Football/Calcio - SerieA - Champions Langue and more
-- [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [costaht/SportsCult-Uploader](https://github.com/costaht/SportsCult-Uploader) - Upload videos or seasons to Sports Cult with ease
 - [psdwizzard/Plex---Eye-Overlay](https://github.com/psdwizzard/Plex---Eye-Overlay) - This is a work in progress repo designed to paste googly eyes onto your Plex posters or any photo available.
 - [JackJPowell/hass-psn](https://github.com/JackJPowell/hass-psn) - Home Assistant integration for the Playstation Network
