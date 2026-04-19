@@ -144,7 +144,7 @@
 
 ## Python 
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin and/or Plex to analyze and manage your content. Functions similarly to Seerr (in reverse), providin
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
