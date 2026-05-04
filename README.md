@@ -68,7 +68,6 @@
 ## HTML 
 
 - [LesFerch/WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
-- [chromedecrypt/Chrome-CDM-Decryptor-4.0](https://github.com/chromedecrypt/Chrome-CDM-Decryptor-4.0) - Chrome CDM Decryptor 4.0 based on chrome 2557
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 
 ## Java 
