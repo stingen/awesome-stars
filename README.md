@@ -130,7 +130,6 @@
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [Jnzzi/4464_L3-CDM](https://github.com/Jnzzi/4464_L3-CDM) - 
 - [sabersalv/awesome-pt](https://github.com/sabersalv/awesome-pt) - A curated list of awesome private tracker tools. PT工具集
-- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 
 ## PHP 
 
