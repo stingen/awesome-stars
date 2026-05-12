@@ -397,7 +397,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)
 - [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) - 1Fichier Download Manager.
-- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [Veritas1000/pdst](https://github.com/Veritas1000/pdst) - DVR & sports tools that work with Plex
 - [robbydyer/sports](https://github.com/robbydyer/sports) - Raspberry Pi RGB Matrix controller for Sports Scoreboards (and others), written in Go
 - [jfarmer08/ha-wyzeapi](https://github.com/jfarmer08/ha-wyzeapi) - Home Assistant Integration for Wyze Bulbs and Switches
