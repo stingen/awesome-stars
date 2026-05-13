@@ -309,6 +309,7 @@
 
 ## others 
 
+- [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
 - [WardsParadox/mlbgamedayha](https://github.com/WardsParadox/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
