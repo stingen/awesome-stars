@@ -76,7 +76,7 @@
 
 ## JavaScript 
 
-- [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
+- [rbrambley/URD](https://github.com/rbrambley/URD) - UDisc Dashboard Creator
 - [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
@@ -251,6 +251,7 @@
 
 ## TypeScript 
 
+- [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
 - [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
