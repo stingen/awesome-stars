@@ -37,6 +37,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebridge](#homebridge)
+- [html](#html)
 - [iot](#iot)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
@@ -229,6 +230,7 @@
 
 ## home-assistant 
 
+- [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
@@ -252,6 +254,10 @@
 - [seydx/homebridge-bravia-tvos](https://github.com/seydx/homebridge-bravia-tvos) - Homebridge plugin for Sony Bravia Android TVs
 - [jfarmer08/homebridge-wyze-smart-home](https://github.com/jfarmer08/homebridge-wyze-smart-home) - Wyze Smart Home plugin for Homebridge.
 
+## html 
+
+- [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
+
 ## iot 
 
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
@@ -259,6 +265,7 @@
 
 ## javascript 
 
+- [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 
 ## jenkins 
