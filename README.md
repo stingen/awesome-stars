@@ -50,6 +50,7 @@
 
 ## C++ 
 
+- [ChronoConstant/Sourdough-Monitor](https://github.com/ChronoConstant/Sourdough-Monitor) - 
 - [m0wmt/C3-bindicator](https://github.com/m0wmt/C3-bindicator) - Bindicator - deployed and in active use
 
 ## Clojure 
@@ -77,6 +78,7 @@
 
 ## JavaScript 
 
+- [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
 - [rbrambley/URD](https://github.com/rbrambley/URD) - UDisc Dashboard Creator
 - [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
@@ -144,6 +146,7 @@
 
 ## Python 
 
+- [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
