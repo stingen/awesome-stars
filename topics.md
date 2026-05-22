@@ -316,6 +316,7 @@
 
 ## others 
 
+- [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [ChronoConstant/Sourdough-Monitor](https://github.com/ChronoConstant/Sourdough-Monitor) - 
 - [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
 - [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
