@@ -80,6 +80,7 @@
 
 - [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
 - [rbrambley/URD](https://github.com/rbrambley/URD) - UDisc Dashboard Creator
+- [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
 - [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
@@ -116,7 +117,6 @@
 
 ## Others 
 
-- [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
 - [WardsParadox/mlbgamedayha](https://github.com/WardsParadox/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
