@@ -148,7 +148,7 @@
 
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
