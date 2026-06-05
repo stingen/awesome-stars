@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
