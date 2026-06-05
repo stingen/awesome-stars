@@ -59,6 +59,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -230,6 +231,7 @@
 
 ## home-assistant 
 
+- [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 - [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
@@ -478,6 +480,10 @@
 
 - [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+## statistics 
+
+- [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 
 ## tensorflow 
 
