@@ -55,7 +55,7 @@
 
 ## Clojure 
 
-- [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
+- [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 
 ## Go 
 
