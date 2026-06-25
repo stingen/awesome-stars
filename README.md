@@ -74,7 +74,6 @@
 
 ## Java 
 
-- [X-15/ReSync](https://github.com/X-15/ReSync) - Revived, buildable build of the discontinued Sync for Reddit Android client (unofficial preservation project)
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
 ## JavaScript 
