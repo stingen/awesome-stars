@@ -319,7 +319,6 @@
 
 ## others 
 
-- [X-15/ReSync](https://github.com/X-15/ReSync) - Revived, buildable build of the discontinued Sync for Reddit Android client (unofficial preservation project)
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [ChronoConstant/Sourdough-Monitor](https://github.com/ChronoConstant/Sourdough-Monitor) - 
