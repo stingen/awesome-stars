@@ -146,6 +146,8 @@
 
 ## Python 
 
+- [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
+- [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
 - [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
 - [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
@@ -258,6 +260,7 @@
 
 ## TypeScript 
 
+- [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
 - [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
