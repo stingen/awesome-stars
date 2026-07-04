@@ -20,6 +20,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -144,6 +145,11 @@
 ## chrome-extension 
 
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
+
+## claude 
+
+- [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
+- [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 
 ## cli 
 
