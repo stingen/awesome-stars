@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
 - [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
 - [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
