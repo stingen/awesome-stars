@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
 - [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
 - [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
