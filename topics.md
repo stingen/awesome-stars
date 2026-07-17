@@ -30,6 +30,7 @@
 - [developer-tools](#developer-tools)
 - [discord](#discord)
 - [docker](#docker)
+- [electron](#electron)
 - [emulator](#emulator)
 - [english](#english)
 - [github](#github)
@@ -43,7 +44,9 @@
 - [javascript](#javascript)
 - [jenkins](#jenkins)
 - [kubernetes](#kubernetes)
+- [linux](#linux)
 - [llm](#llm)
+- [macos](#macos)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [nextjs](#nextjs)
@@ -206,6 +209,10 @@
 - [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 
+## electron 
+
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
+
 ## emulator 
 
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -249,6 +256,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [Butter-mit-Brot/Openhome-Sync](https://github.com/Butter-mit-Brot/Openhome-Sync) - The Openhome Sync project is an application to synchronise Homeasisstant entitys with your pc screen.
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [bburwell/HA-Sports-Scores](https://github.com/bburwell/HA-Sports-Scores) - Home Assistant Sports Scores, Standings, Dashboards and Yaml's for Home Assistant
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [Bobsilvio/calcio-live-card](https://github.com/Bobsilvio/calcio-live-card) - HomeAssistant Card for Calcio-Live integration
@@ -270,6 +278,7 @@
 
 ## iot 
 
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [TuyaAPI/cli](https://github.com/TuyaAPI/cli) - 🔧 A CLI for Tuya devices
 
@@ -286,9 +295,17 @@
 
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
+## linux 
+
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
+
 ## llm 
 
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
+
+## macos 
+
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 
 ## microsoft 
 
@@ -326,6 +343,7 @@
 
 ## others 
 
+- [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
@@ -357,7 +375,6 @@
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
 - [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard) - Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic
 - [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
-- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - A convenient tool for Home Assistant that provides quick access to your smart home devices from your desktop.
 - [IsakJacobsson/udisc-stats-analyzer](https://github.com/IsakJacobsson/udisc-stats-analyzer) - Analyze your UDisc stats
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
 - [Ducky705/AutoFliff](https://github.com/Ducky705/AutoFliff) - 
@@ -531,6 +548,7 @@
 
 ## windows 
 
+- [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
