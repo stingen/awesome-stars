@@ -185,7 +185,6 @@
 - [KBThree13/mcp_espn_ff](https://github.com/KBThree13/mcp_espn_ff) - ESPN Fantasy API with LLMs!
 - [Darkxh/Fliff-Reminder-Bot](https://github.com/Darkxh/Fliff-Reminder-Bot) - 
 - [Connum/hass-ga-autoexpose](https://github.com/Connum/hass-ga-autoexpose) - Automatically exports all the exposed entities configured in Home Assistant's UI for Google Assistant if you are using a local integration instead of the cloud integration.
-- [fpr1m3/plex-chat](https://github.com/fpr1m3/plex-chat) - Local LLM powered chat with tools to work with Plex Media Server
 - [Bobsilvio/calcio-live](https://github.com/Bobsilvio/calcio-live) - HomeAssistant Integration for Football/Calcio - SerieA - Champions Langue and more
 - [costaht/SportsCult-Uploader](https://github.com/costaht/SportsCult-Uploader) - Upload videos or seasons to Sports Cult with ease
 - [psdwizzard/Plex---Eye-Overlay](https://github.com/psdwizzard/Plex---Eye-Overlay) - This is a work in progress repo designed to paste googly eyes onto your Plex posters or any photo available.
