@@ -390,7 +390,6 @@
 - [Darkxh/Fliff-Reminder-Bot](https://github.com/Darkxh/Fliff-Reminder-Bot) - 
 - [Connum/hass-ga-autoexpose](https://github.com/Connum/hass-ga-autoexpose) - Automatically exports all the exposed entities configured in Home Assistant's UI for Google Assistant if you are using a local integration instead of the cloud integration.
 - [UnderwaterOverground/Plex-Concierge](https://github.com/UnderwaterOverground/Plex-Concierge) - A demonstration of the connection between a Custom GPT and Overseerr
-- [fpr1m3/plex-chat](https://github.com/fpr1m3/plex-chat) - Local LLM powered chat with tools to work with Plex Media Server
 - [Bobsilvio/calcio-live](https://github.com/Bobsilvio/calcio-live) - HomeAssistant Integration for Football/Calcio - SerieA - Champions Langue and more
 - [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [costaht/SportsCult-Uploader](https://github.com/costaht/SportsCult-Uploader) - Upload videos or seasons to Sports Cult with ease
