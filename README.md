@@ -255,6 +255,7 @@
 
 ## Shell 
 
+- [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA addon for shark2mqtt
 - [Mr-MIBonk/M.I.B._More-Incredible-Bash](https://github.com/Mr-MIBonk/M.I.B._More-Incredible-Bash) - M.I.B. - More Incredible Bash - The Army knife for Harman MIB 2.x aka MHI2(Q) units
 - [robbydyer/rgb-led-matrix-sports-premium](https://github.com/robbydyer/rgb-led-matrix-sports-premium) - 
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
