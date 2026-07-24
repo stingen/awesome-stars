@@ -76,6 +76,7 @@
 
 ## JavaScript 
 
+- [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
 - [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
 - [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
@@ -147,6 +148,7 @@
 
 ## Python 
 
+- [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
 - [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
@@ -171,7 +173,7 @@
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [wmoss/ha-wyzeapi](https://github.com/wmoss/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [willcm/ps5-time-management](https://github.com/willcm/ps5-time-management) - 
-- [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2025/26 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
+- [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2026/27 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
 - [Butter-mit-Brot/Openhome-Sync](https://github.com/Butter-mit-Brot/Openhome-Sync) - The Openhome Sync project is an application to synchronise Homeasisstant entitys with your pc screen.
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
 - [bburwell/HA-Sports-Scores](https://github.com/bburwell/HA-Sports-Scores) - Home Assistant Sports Scores, Standings, Dashboards and Yaml's for Home Assistant
