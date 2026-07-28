@@ -201,6 +201,7 @@
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
@@ -374,7 +375,6 @@
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
 - [globetvapp/epg](https://github.com/globetvapp/epg) - Free EPG guides by country. Please free to donate us on the below website. Thank you!
 - [mrwhitwork-bit/Disc_Golf_Tracker](https://github.com/mrwhitwork-bit/Disc_Golf_Tracker) - This project will be an open source cheap code and hardware to build a disc golf tracking sensor
-- [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
 - [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard) - Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic
@@ -507,6 +507,7 @@
 
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
+- [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## server 
