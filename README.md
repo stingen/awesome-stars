@@ -89,7 +89,7 @@
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [adm1nsys/Ledvance-A60-Plugin](https://github.com/adm1nsys/Ledvance-A60-Plugin) - Plugin for local control Ledvance A60 E27 RGBW Bulb
 - [Bobsilvio/calcio-live-card](https://github.com/Bobsilvio/calcio-live-card) - HomeAssistant Card for Calcio-Live integration
-- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
+- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [pixel5/DiscBot](https://github.com/pixel5/DiscBot) - Discord bot for fetching information about disc golf discs
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [tonywagner/mlbserver](https://github.com/tonywagner/mlbserver) - 
@@ -148,6 +148,7 @@
 
 ## Python 
 
+- [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
