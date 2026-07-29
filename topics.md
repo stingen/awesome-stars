@@ -147,7 +147,7 @@
 
 ## chrome-extension 
 
-- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
+- [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 
 ## claude 
 
@@ -345,6 +345,7 @@
 
 ## others 
 
+- [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA addon for shark2mqtt
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
