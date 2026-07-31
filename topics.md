@@ -346,6 +346,7 @@
 
 ## others 
 
+- [DeepHyperspace/dough-calculator-ha-card](https://github.com/DeepHyperspace/dough-calculator-ha-card) - Home Assistant Lovelace Card for calculating bread dough recipes with pre-ferments, timeline, and proofing time optimization
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA addon for shark2mqtt
