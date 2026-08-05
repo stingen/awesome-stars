@@ -113,6 +113,7 @@
 
 ## Kotlin 
 
+- [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 - [AyraHikari/HealthConnect_to_HomeAssistant](https://github.com/AyraHikari/HealthConnect_to_HomeAssistant) - Sync your Android Health Connect API to Home Assistant as entity
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
