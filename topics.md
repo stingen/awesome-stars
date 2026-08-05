@@ -346,6 +346,7 @@
 
 ## others 
 
+- [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [DeepHyperspace/dough-calculator-ha-card](https://github.com/DeepHyperspace/dough-calculator-ha-card) - Home Assistant Lovelace Card for calculating bread dough recipes with pre-ferments, timeline, and proofing time optimization
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
