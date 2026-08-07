@@ -320,7 +320,7 @@
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## nextjs 
 
@@ -491,7 +491,7 @@
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [hyugogirubato/DVDFabExtendedDownload](https://github.com/hyugogirubato/DVDFabExtendedDownload) - Easily download specific DVDFab software versions. Supports Windows and macOS across multiple DVDFab products.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
 - [cubicbyte/reddit-account-generator](https://github.com/cubicbyte/reddit-account-generator) - Automatically generate reddit accounts
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -529,7 +529,7 @@
 
 ## terminal 
 
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## terraform 
 
@@ -552,7 +552,7 @@
 
 - [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) - A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## windows 
 
