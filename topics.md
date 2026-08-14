@@ -33,6 +33,7 @@
 - [electron](#electron)
 - [emulator](#emulator)
 - [english](#english)
+- [flutter](#flutter)
 - [github](#github)
 - [golang](#golang)
 - [google](#google)
@@ -221,6 +222,10 @@
 ## english 
 
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+
+## flutter 
+
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 
 ## github 
 
