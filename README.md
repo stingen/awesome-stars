@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Clojure](#clojure)
+- [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -56,6 +57,10 @@
 ## Clojure 
 
 - [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
+
+## Dart 
+
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 
 ## Go 
 
