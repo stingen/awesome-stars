@@ -267,6 +267,7 @@
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [bburwell/HA-Sports-Scores](https://github.com/bburwell/HA-Sports-Scores) - Home Assistant Sports Scores, Standings, Dashboards and Yaml's for Home Assistant
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
+- [Richardvaio/Tautulli_Active_Streams](https://github.com/Richardvaio/Tautulli_Active_Streams) - Real time tracking of media details, user activity, playback progress and so much more.
 - [Bobsilvio/calcio-live-card](https://github.com/Bobsilvio/calcio-live-card) - HomeAssistant Card for Calcio-Live integration
 - [Nerwyn/universal-remote-card](https://github.com/Nerwyn/universal-remote-card) - A completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box.
 - [FunkeyFlo/ps5-mqtt](https://github.com/FunkeyFlo/ps5-mqtt) - Integrate your PlayStation 5 with Home Assistant
@@ -393,7 +394,6 @@
 - [Ducky705/AutoFliff](https://github.com/Ducky705/AutoFliff) - 
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
 - [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
-- [Richardvaio/Tautulli_Active_Streams](https://github.com/Richardvaio/Tautulli_Active_Streams) - Real time tracking of media details, user activity, playback progress and so much more.
 - [minisotan/ESPNFantasyFootballDiscordBot](https://github.com/minisotan/ESPNFantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
 - [KBThree13/mcp_espn_ff](https://github.com/KBThree13/mcp_espn_ff) - ESPN Fantasy API with LLMs!
 - [tarsillon1/espn-ff-agent](https://github.com/tarsillon1/espn-ff-agent) - 
