@@ -186,7 +186,7 @@
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
 - [bburwell/HA-Sports-Scores](https://github.com/bburwell/HA-Sports-Scores) - Home Assistant Sports Scores, Standings, Dashboards and Yaml's for Home Assistant
 - [IsakJacobsson/udisc-stats-analyzer](https://github.com/IsakJacobsson/udisc-stats-analyzer) - Analyze your UDisc stats
-- [Ducky705/AutoFliff](https://github.com/Ducky705/AutoFliff) - 
+- [DSargent21/AutoFliff](https://github.com/DSargent21/AutoFliff) - 
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
 - [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
