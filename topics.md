@@ -391,7 +391,7 @@
 - [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 - [IsakJacobsson/udisc-stats-analyzer](https://github.com/IsakJacobsson/udisc-stats-analyzer) - Analyze your UDisc stats
 - [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan) - A cross-platform command-line tool (Windows, Linux, macOS) for scanning a media library and reporting on Plex naming compliance.
-- [Ducky705/AutoFliff](https://github.com/Ducky705/AutoFliff) - 
+- [DSargent21/AutoFliff](https://github.com/DSargent21/AutoFliff) - 
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
 - [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
 - [minisotan/ESPNFantasyFootballDiscordBot](https://github.com/minisotan/ESPNFantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
