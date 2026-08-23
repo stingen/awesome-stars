@@ -115,6 +115,7 @@
 
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 ## aws 
 
@@ -258,8 +259,9 @@
 - [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
 - [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [GreenNovaEmma/migraine-risk-card](https://github.com/GreenNovaEmma/migraine-risk-card) - A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual g
+- [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - Home Assistant integration for football fixtures, results and upcoming matches via FotMob
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
-- [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports ticker
+- [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports Ticker brings live sports into Home Assistant with 19 entities, 400+ normalized attributes, and thousands of usable ESPN data points for powerful dashboards, cards, and automations.
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
@@ -368,7 +370,6 @@
 - [rbrambley/URD](https://github.com/rbrambley/URD) - UDisc Dashboard Creator
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
 - [WardsParadox/mlbgamedayha](https://github.com/WardsParadox/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
-- [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - 
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
 - [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
 - [TheIcelandicguy/entity-manager](https://github.com/TheIcelandicguy/entity-manager) - Home Assistant integration for managing disabled and enabled entities
