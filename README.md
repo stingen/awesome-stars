@@ -225,7 +225,7 @@
 - [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
 - [seproDev/yt-dlp-ChromeCookieUnlock](https://github.com/seproDev/yt-dlp-ChromeCookieUnlock) - A yt-dlp plugin to unlock the cookie database of chromium-based browsers
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording and mcp server
 - [stabbedbybrick/freevine](https://github.com/stabbedbybrick/freevine) - A Download Utility for Free Streaming Services
 - [slashtechno/wyzely-detect](https://github.com/slashtechno/wyzely-detect) - Recognize faces/objects in a video stream (from a webcam or a security camera) and send notifications to your devices
 - [bbrown430/plex-poster-set-helper](https://github.com/bbrown430/plex-poster-set-helper) - A tool to help upload sets of posters from ThePosterDB and MediUX to your Plex server in seconds!
