@@ -155,6 +155,7 @@
 
 ## Python 
 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
