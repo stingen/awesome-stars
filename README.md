@@ -202,7 +202,7 @@
 - [costaht/SportsCult-Uploader](https://github.com/costaht/SportsCult-Uploader) - Upload videos or seasons to Sports Cult with ease
 - [psdwizzard/Plex---Eye-Overlay](https://github.com/psdwizzard/Plex---Eye-Overlay) - This is a work in progress repo designed to paste googly eyes onto your Plex posters or any photo available.
 - [JackJPowell/hass-psn](https://github.com/JackJPowell/hass-psn) - Home Assistant integration for the Playstation Network
-- [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
+- [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [ZappBrannigannnn/theSportsDB_PLEX](https://github.com/ZappBrannigannnn/theSportsDB_PLEX) - Plex Scanner and Agent for theSportsDB
 - [foxuio/ha-wyzesense_v2](https://github.com/foxuio/ha-wyzesense_v2) - Custom WyzeSense integration for Home Assistant compatible with latest updates 2025
 - [austin-stuff/udisc_stats](https://github.com/austin-stuff/udisc_stats) - 
