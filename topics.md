@@ -339,7 +339,7 @@
 
 - [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
-- [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
+- [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
@@ -508,7 +508,7 @@
 - [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2026/27 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
-- [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
+- [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
 - [hyugogirubato/DVDFabExtendedDownload](https://github.com/hyugogirubato/DVDFabExtendedDownload) - Easily download specific DVDFab software versions. Supports Windows and macOS across multiple DVDFab products.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
