@@ -194,7 +194,7 @@
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [Richardvaio/Tautulli_Active_Streams](https://github.com/Richardvaio/Tautulli_Active_Streams) - Real time tracking of media details, user activity, playback progress and so much more.
-- [minisotan/ESPNFantasyFootballDiscordBot](https://github.com/minisotan/ESPNFantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
+- [minisotan/FantasyFootballDiscordBot](https://github.com/minisotan/FantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
 - [KBThree13/mcp_espn_ff](https://github.com/KBThree13/mcp_espn_ff) - ESPN Fantasy API with LLMs!
 - [Darkxh/Fliff-Reminder-Bot](https://github.com/Darkxh/Fliff-Reminder-Bot) - 
 - [Connum/hass-ga-autoexpose](https://github.com/Connum/hass-ga-autoexpose) - Automatically exports all the exposed entities configured in Home Assistant's UI for Google Assistant if you are using a local integration instead of the cloud integration.
