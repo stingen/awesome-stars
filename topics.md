@@ -409,7 +409,7 @@
 - [DSargent21/AutoFliff](https://github.com/DSargent21/AutoFliff) - 
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
 - [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
-- [minisotan/ESPNFantasyFootballDiscordBot](https://github.com/minisotan/ESPNFantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
+- [minisotan/FantasyFootballDiscordBot](https://github.com/minisotan/FantasyFootballDiscordBot) - A Discord bot that integrates with the ESPN Fantasy
 - [KBThree13/mcp_espn_ff](https://github.com/KBThree13/mcp_espn_ff) - ESPN Fantasy API with LLMs!
 - [tarsillon1/espn-ff-agent](https://github.com/tarsillon1/espn-ff-agent) - 
 - [zacharyd3/Blitz-LightningTracker](https://github.com/zacharyd3/Blitz-LightningTracker) - Home Assistant Blueprint for Lightning Strike Notifications with Maps
