@@ -367,6 +367,7 @@
 
 ## others 
 
+- [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [DeepHyperspace/dough-calculator-ha-card](https://github.com/DeepHyperspace/dough-calculator-ha-card) - Home Assistant Lovelace Card for calculating bread dough recipes with pre-ferments, timeline, and proofing time optimization
