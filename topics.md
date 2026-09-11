@@ -367,6 +367,7 @@
 
 ## others 
 
+- [activexray/doplarr_rs](https://github.com/activexray/doplarr_rs) - An *arr request bot for Discord, written in Rust
 - [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
