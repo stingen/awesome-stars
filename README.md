@@ -263,6 +263,7 @@
 
 ## Rust 
 
+- [activexray/doplarr_rs](https://github.com/activexray/doplarr_rs) - An *arr request bot for Discord, written in Rust
 - [MickeyPvX/espn-ffl](https://github.com/MickeyPvX/espn-ffl) - Rust CLI for querying, exporting, and predicting (kind of) ESPN Fantasy Football data.
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [mchestr/displex](https://github.com/mchestr/displex) - Discord & Plex & Tautulli & Overseerr Bot
