@@ -367,6 +367,7 @@
 
 ## others 
 
+- [stevehoek/snapchat-dl](https://github.com/stevehoek/snapchat-dl) - Snapchat story downloader
 - [activexray/doplarr_rs](https://github.com/activexray/doplarr_rs) - An *arr request bot for Discord, written in Rust
 - [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
