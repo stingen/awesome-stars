@@ -25,6 +25,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 - [YAML](#yaml)
 
 ## Batchfile 
@@ -290,7 +291,6 @@
 - [tarsillon1/espn-ff-agent](https://github.com/tarsillon1/espn-ff-agent) - 
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) - A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
-- [nandi95/removearr](https://github.com/nandi95/removearr) - Plex media remover
 - [nicholasodonnell/usharr](https://github.com/nicholasodonnell/usharr) - Effortlessly maintain a streamlined movie library by removing unwanted movies from Radarr / Plex.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Nerwyn/universal-remote-card](https://github.com/Nerwyn/universal-remote-card) - A completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box.
@@ -298,6 +298,10 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [FoxxMD/tautulli-notification-digest](https://github.com/FoxxMD/tautulli-notification-digest) - Consolidate Tautuilli Notification agent events for discord
 - [fernando/pushbullet-to-discord](https://github.com/fernando/pushbullet-to-discord) - 
+
+## Vue 
+
+- [nandi95/removearr](https://github.com/nandi95/removearr) - Plex media remover
 
 ## YAML 
 
