@@ -186,6 +186,7 @@
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [wmoss/ha-wyzeapi](https://github.com/wmoss/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [willcm/ps5-time-management](https://github.com/willcm/ps5-time-management) - 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2026/27 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
 - [Butter-mit-Brot/Openhome-Sync](https://github.com/Butter-mit-Brot/Openhome-Sync) - The Openhome Sync project is an application to synchronise Homeasisstant entitys with your pc screen.
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
@@ -286,7 +287,6 @@
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
 - [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [tarsillon1/espn-ff-agent](https://github.com/tarsillon1/espn-ff-agent) - 
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) - A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
