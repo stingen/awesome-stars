@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
@@ -206,7 +207,7 @@
 - [costaht/SportsCult-Uploader](https://github.com/costaht/SportsCult-Uploader) - Upload videos or seasons to Sports Cult with ease
 - [psdwizzard/Plex---Eye-Overlay](https://github.com/psdwizzard/Plex---Eye-Overlay) - This is a work in progress repo designed to paste googly eyes onto your Plex posters or any photo available.
 - [JackJPowell/hass-psn](https://github.com/JackJPowell/hass-psn) - Home Assistant integration for the Playstation Network
-- [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
+- [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - Self-hosted Discord bot with one live dashboard for Plex or Jellyfin: active streams, library totals, server state, SABnzbd downloads and Uptime Kuma history.
 - [ZappBrannigannnn/theSportsDB_PLEX](https://github.com/ZappBrannigannnn/theSportsDB_PLEX) - Plex Scanner and Agent for theSportsDB
 - [foxuio/ha-wyzesense_v2](https://github.com/foxuio/ha-wyzesense_v2) - Custom WyzeSense integration for Home Assistant compatible with latest updates 2025
 - [austin-stuff/udisc_stats](https://github.com/austin-stuff/udisc_stats) - 
@@ -282,6 +283,7 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
