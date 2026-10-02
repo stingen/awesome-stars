@@ -35,7 +35,6 @@
 - [emulator](#emulator)
 - [english](#english)
 - [esp32](#esp32)
-- [fastapi](#fastapi)
 - [finance](#finance)
 - [flutter](#flutter)
 - [github](#github)
@@ -240,10 +239,6 @@
 ## esp32 
 
 - [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
-
-## fastapi 
-
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
 ## finance 
 
