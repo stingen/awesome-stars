@@ -79,11 +79,13 @@
 
 ## Java 
 
+- [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
 ## JavaScript 
 
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
@@ -162,7 +164,6 @@
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
 - [stevehoek/snapchat-dl](https://github.com/stevehoek/snapchat-dl) - Snapchat story downloader
 - [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
@@ -176,7 +177,6 @@
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
-- [Bobsilvio/ha-claude](https://github.com/Bobsilvio/ha-claude) - Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - Home Assistant integration for football fixtures, results and upcoming matches via FotMob
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
 - [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
