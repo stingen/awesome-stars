@@ -159,6 +159,8 @@
 
 ## Python 
 
+- [jpcsousa12/ha-sportsradar](https://github.com/jpcsousa12/ha-sportsradar) - Home Assistant team tracker using the SofaScore API. Fork of vasqued2/ha-teamtracker (GPL-3.0), migrated from ESPN.
+- [Lseauk/EnvyUI](https://github.com/Lseauk/EnvyUI) - A free to air downloader
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
 - [sutty-2017/ha-espn-fantasy](https://github.com/sutty-2017/ha-espn-fantasy) - Home Assistant integration for ESPN Fantasy Football leagues and teams.
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
