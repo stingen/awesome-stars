@@ -291,7 +291,7 @@
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
-- [plix-labs/PlixMetrics](https://github.com/plix-labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
+- [cer0Labs/PlixMetrics](https://github.com/cer0Labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [tarsillon1/espn-ff-agent](https://github.com/tarsillon1/espn-ff-agent) - 
