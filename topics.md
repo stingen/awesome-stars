@@ -369,6 +369,7 @@
 
 ## others 
 
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [Lseauk/EnvyUI](https://github.com/Lseauk/EnvyUI) - A free to air downloader
 - [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
 - [stevehoek/snapchat-dl](https://github.com/stevehoek/snapchat-dl) - Snapchat story downloader
