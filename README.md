@@ -122,6 +122,7 @@
 
 ## Kotlin 
 
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 - [AyraHikari/HealthConnect_to_HomeAssistant](https://github.com/AyraHikari/HealthConnect_to_HomeAssistant) - Sync your Android Health Connect API to Home Assistant as entity
