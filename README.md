@@ -254,7 +254,7 @@
 - [vasqued2/ha-teamtracker](https://github.com/vasqued2/ha-teamtracker) - Home Assistant integration that provides real-time scores in multiple professional (NBA, NFL, NHL, MLB, MLS, and more), college (NCAA), and international (soccer, golf, tennis, mma, racing) sports usi
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
-- [brah/plex-bot](https://github.com/brah/plex-bot) - Hobby project to interact with Plex through the Tautulli API for fun commands on your Discord server
+- [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
 - [grantwenzinger/match-video](https://github.com/grantwenzinger/match-video) - A Python library that simplifies working with video from soccer matches.
 - [williameast/seed-dl](https://github.com/williameast/seed-dl) - A CLI tool to interface with public seedboxes. works with restricted, FTP only shared seedboxes at seedbox.io
 - [AlexxIT/HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows
