@@ -214,6 +214,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
+- [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
 
 ## electron 
 
@@ -481,7 +482,6 @@
 - [maximuskowalski/sportSort](https://github.com/maximuskowalski/sportSort) - A sorter and renamer for sport files to make them mostly compatible with thesportsdb.com
 - [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
 - [DouglasMartins1999/AppleTVForAndroid](https://github.com/DouglasMartins1999/AppleTVForAndroid) - A WebView Client to AppleTV Plus
-- [brah/plex-bot](https://github.com/brah/plex-bot) - Hobby project to interact with Plex through the Tautulli API for fun commands on your Discord server
 - [williameast/seed-dl](https://github.com/williameast/seed-dl) - A CLI tool to interface with public seedboxes. works with restricted, FTP only shared seedboxes at seedbox.io
 - [DoAndroids/rutorrent-discord](https://github.com/DoAndroids/rutorrent-discord) - a rutorrent plugin for discord webhook notifications
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.
@@ -523,6 +523,7 @@
 - [cubicbyte/reddit-account-generator](https://github.com/cubicbyte/reddit-account-generator) - Automatically generate reddit accounts
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
 
 ## react 
 
@@ -541,6 +542,7 @@
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - Self-hosted Discord bot with one live dashboard for Plex or Jellyfin: active streams, library totals, server state, SABnzbd downloads and Uptime Kuma history.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
 
 ## server 
 
