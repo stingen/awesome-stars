@@ -21,6 +21,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -59,6 +60,7 @@
 - [others](#others)
 - [php](#php)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [react](#react)
@@ -75,6 +77,7 @@
 - [web](#web)
 - [windows](#windows)
 - [windows-11](#windows-11)
+- [youtube](#youtube)
 
 ## ai 
 
@@ -157,6 +160,10 @@
 
 - [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
+
+## claude-code 
+
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ## cli 
 
@@ -265,6 +272,7 @@
 
 ## home-assistant 
 
+- [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [jpcsousa12/ha-sportsradar](https://github.com/jpcsousa12/ha-sportsradar) - Home Assistant team tracker using the SofaScore API. Fork of vasqued2/ha-teamtracker (GPL-3.0), migrated from ESPN.
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
@@ -508,6 +516,10 @@
 - [alekdavis/PlexBackup](https://github.com/alekdavis/PlexBackup) - PowerShell script for backing up and restoring Plex Media Server application data on Windows.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
+## privacy 
+
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
 ## prompt-engineering 
 
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
@@ -601,6 +613,10 @@
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+## youtube 
+
+- [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 
 
 ## License
