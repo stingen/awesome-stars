@@ -80,6 +80,7 @@
 
 ## Java 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
@@ -161,6 +162,7 @@
 
 ## Python 
 
+- [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 - [jpcsousa12/ha-sportsradar](https://github.com/jpcsousa12/ha-sportsradar) - Home Assistant team tracker using the SofaScore API. Fork of vasqued2/ha-teamtracker (GPL-3.0), migrated from ESPN.
 - [Lseauk/EnvyUI](https://github.com/Lseauk/EnvyUI) - A free to air downloader
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
