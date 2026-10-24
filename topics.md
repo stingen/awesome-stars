@@ -31,6 +31,7 @@
 - [developer-tools](#developer-tools)
 - [discord](#discord)
 - [docker](#docker)
+- [downloader](#downloader)
 - [electron](#electron)
 - [emulator](#emulator)
 - [english](#english)
@@ -210,7 +211,7 @@
 ## docker 
 
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
@@ -223,6 +224,13 @@
 - [activexray/Doplarr](https://github.com/activexray/Doplarr) - An *arr request bot for Discord
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
+
+## downloader 
+
+- [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
+- [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
 
 ## electron 
 
@@ -381,6 +389,7 @@
 
 ## others 
 
+- [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [Lseauk/EnvyUI](https://github.com/Lseauk/EnvyUI) - A free to air downloader
 - [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
@@ -491,7 +500,6 @@
 - [criess374/discgolf](https://github.com/criess374/discgolf) - Data analysis of disc golf etc
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [maximuskowalski/sportSort](https://github.com/maximuskowalski/sportSort) - A sorter and renamer for sport files to make them mostly compatible with thesportsdb.com
-- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
 - [DouglasMartins1999/AppleTVForAndroid](https://github.com/DouglasMartins1999/AppleTVForAndroid) - A WebView Client to AppleTV Plus
 - [williameast/seed-dl](https://github.com/williameast/seed-dl) - A CLI tool to interface with public seedboxes. works with restricted, FTP only shared seedboxes at seedbox.io
 - [DoAndroids/rutorrent-discord](https://github.com/DoAndroids/rutorrent-discord) - a rutorrent plugin for discord webhook notifications
