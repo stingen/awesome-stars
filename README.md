@@ -86,6 +86,7 @@
 
 ## JavaScript 
 
+- [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
 - [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
@@ -182,7 +183,7 @@
 - [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 - [johnbr/mlb-live-scoreboard](https://github.com/johnbr/mlb-live-scoreboard) - Home Assistant MLB live game scorecard.
 - [SpaceBallz2k8/unshackle](https://github.com/SpaceBallz2k8/unshackle) - Modular Movie, TV, and Music Archival Software
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - Home Assistant integration for football fixtures, results and upcoming matches via FotMob
 - [bwwhouseww/ha-fotmob-league](https://github.com/bwwhouseww/ha-fotmob-league) - 
 - [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
