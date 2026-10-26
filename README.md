@@ -80,15 +80,15 @@
 
 ## Java 
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
 ## JavaScript 
 
+- [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
 - [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
@@ -163,6 +163,7 @@
 
 ## Python 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 - [jpcsousa12/ha-sportsradar](https://github.com/jpcsousa12/ha-sportsradar) - Home Assistant team tracker using the SofaScore API. Fork of vasqued2/ha-teamtracker (GPL-3.0), migrated from ESPN.
 - [Lseauk/EnvyUI](https://github.com/Lseauk/EnvyUI) - A free to air downloader
