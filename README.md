@@ -80,6 +80,7 @@
 
 ## Java 
 
+- [rajupp/talkies](https://github.com/rajupp/talkies) - A small, ad-free home screen for Android TV and Google TV
 - [SpacemanSpiff7/luna-tv](https://github.com/SpacemanSpiff7/luna-tv) - 
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
