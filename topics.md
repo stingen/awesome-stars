@@ -70,6 +70,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [skills](#skills)
 - [statistics](#statistics)
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
@@ -401,6 +402,7 @@
 
 ## others 
 
+- [rajupp/talkies](https://github.com/rajupp/talkies) - A small, ad-free home screen for Android TV and Google TV
 - [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
 - [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
@@ -585,6 +587,10 @@
 
 - [cer0Labs/PlixMetrics](https://github.com/cer0Labs/PlixMetrics) - A self-hosted, real-time Plex network monitoring dashboard. Track multiple Tautulli instances, visualize streaming activity on a world map, and analyze viewing statistics.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+## skills 
+
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 
 ## statistics 
 
