@@ -288,6 +288,7 @@
 
 ## home-assistant 
 
+- [sebastianwilczek/ha-ps5](https://github.com/sebastianwilczek/ha-ps5) - Unofficial Home Assistant integration for the PS5: installed titles, purchased library, remote download queue and progress, and starting or cancelling remote downloads.
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 33 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
