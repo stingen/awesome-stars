@@ -102,7 +102,7 @@
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
-- [adm1nsys/Ledvance-A60-Plugin](https://github.com/adm1nsys/Ledvance-A60-Plugin) - Plugin for local control Ledvance A60 E27 RGBW Bulb
+- [adm1nsys/Ledvance-A60-Plugin](https://github.com/adm1nsys/Ledvance-A60-Plugin) - Homebridge plugin: the LEDVANCE Smart+ WiFi E27 A60 RGBW bulb in Apple HomeKit, controlled locally without the cloud.
 - [Bobsilvio/calcio-live-card](https://github.com/Bobsilvio/calcio-live-card) - HomeAssistant Card for Calcio-Live integration
 - [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 - [pixel5/DiscBot](https://github.com/pixel5/DiscBot) - Discord bot for fetching information about disc golf discs
@@ -110,7 +110,7 @@
 - [tonywagner/mlbserver](https://github.com/tonywagner/mlbserver) - 
 - [Diazole/dumper](https://github.com/Diazole/dumper) - Dump L3 CDM from any Android device
 - [seydx/homebridge-bravia-tvos](https://github.com/seydx/homebridge-bravia-tvos) - Homebridge plugin for Sony Bravia Android TVs
-- [jfarmer08/homebridge-wyze-smart-home](https://github.com/jfarmer08/homebridge-wyze-smart-home) - Wyze Smart Home plugin for Homebridge.
+- [wyze-smart-home/homebridge-wyze-smart-home](https://github.com/wyze-smart-home/homebridge-wyze-smart-home) - Wyze Smart Home plugin for Homebridge.
 - [TuyaAPI/cli](https://github.com/TuyaAPI/cli) - 🔧 A CLI for Tuya devices
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 
@@ -127,7 +127,7 @@
 ## Kotlin 
 
 - [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, Continue Watching (Nuvio, Stremio, Trakt, Simkl), Library, 4K/HDR aerial screensaver, camera
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 33 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
@@ -209,7 +209,7 @@
 - [bburwell/HA-Sports-Scores](https://github.com/bburwell/HA-Sports-Scores) - Home Assistant Sports Scores, Standings, Dashboards and Yaml's for Home Assistant
 - [IsakJacobsson/udisc-stats-analyzer](https://github.com/IsakJacobsson/udisc-stats-analyzer) - Analyze your UDisc stats
 - [Zinkelburger/Fantasy-Football-Tool](https://github.com/Zinkelburger/Fantasy-Football-Tool) - 
-- [adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvence-Smart-WiFi-E27-A60-Local-Control) - I developed this script to easy control LEDVANCE E27 A60 WiFi Bulb using local network. It use tinytuya protocol 3.5
+- [adm1nsys/Ledvance-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvance-Smart-WiFi-E27-A60-Local-Control) - Command-line tool to control the LEDVANCE Smart+ WiFi E27 A60 RGBW bulb over the local network (TinyTuya, Tuya protocol 3.5).
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [Richardvaio/Tautulli_Active_Streams](https://github.com/Richardvaio/Tautulli_Active_Streams) - Real time tracking of media details, user activity, playback progress and so much more.
