@@ -10,6 +10,7 @@
 - [ai-agent](#ai-agent)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -86,7 +87,7 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 
 ## ai 
 
@@ -111,6 +112,10 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+
+## android-app 
+
+- [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 
 ## api 
 
@@ -168,7 +173,6 @@
 
 ## claude 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
 
 ## claude-code 
@@ -255,7 +259,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 
 ## finance 
 
@@ -298,7 +302,7 @@
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
 - [sutty-2017/ha-espn-fantasy](https://github.com/sutty-2017/ha-espn-fantasy) - Home Assistant integration for ESPN Fantasy Football leagues and teams.
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
@@ -337,13 +341,13 @@
 ## iot 
 
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [Robertg761/HA-Desktop-Widget](https://github.com/Robertg761/HA-Desktop-Widget) - Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.
 - [FlagX/ha-ledvance-tuya-resync-localkey](https://github.com/FlagX/ha-ledvance-tuya-resync-localkey) - pyscript for homeassistant to resync local keys from private tuya api
 - [TuyaAPI/cli](https://github.com/TuyaAPI/cli) - 🔧 A CLI for Tuya devices
 
 ## javascript 
 
+- [wyze-smart-home/wyze-api](https://github.com/wyze-smart-home/wyze-api) - An un-official API wrapper for Wyze products
 - [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 
@@ -395,12 +399,14 @@
 
 ## node 
 
+- [wyze-smart-home/wyze-api](https://github.com/wyze-smart-home/wyze-api) - An un-official API wrapper for Wyze products
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nicholasodonnell/usharr](https://github.com/nicholasodonnell/usharr) - Effortlessly maintain a streamlined movie library by removing unwanted movies from Radarr / Plex.
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 
 ## nodejs 
 
+- [wyze-smart-home/wyze-api](https://github.com/wyze-smart-home/wyze-api) - An un-official API wrapper for Wyze products
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
 - [TuyaAPI/cli](https://github.com/TuyaAPI/cli) - 🔧 A CLI for Tuya devices
 
