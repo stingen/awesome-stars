@@ -456,7 +456,6 @@
 - [willcm/ps5-time-management](https://github.com/willcm/ps5-time-management) - 
 - [seydx/go2rtc](https://github.com/seydx/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [netplexflix/Plex-Wrapped-for-Tautulli](https://github.com/netplexflix/Plex-Wrapped-for-Tautulli) - Beautiful Plex Wrapped reports based on Tautulli data
-- [globetvapp/epg](https://github.com/globetvapp/epg) - Free EPG guides by country. Please free to donate us on the below website. Thank you!
 - [mrwhitwork-bit/Disc_Golf_Tracker](https://github.com/mrwhitwork-bit/Disc_Golf_Tracker) - This project will be an open source cheap code and hardware to build a disc golf tracking sensor
 - [Pratilectron/footballia-auto-video-downloader](https://github.com/Pratilectron/footballia-auto-video-downloader) - This Chrome Extension automatically detects and downloads video files from websites as soon as they are played, supporting formats such as `.mp4`, `.webm`, `.m3u8`, and `.ts`.
 - [kineticman/ESPN4CC4C](https://github.com/kineticman/ESPN4CC4C) - ESPN+ for Chrome Capture For Channels
