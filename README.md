@@ -141,7 +141,6 @@
 - [WardsParadox/mlbgamedayha](https://github.com/WardsParadox/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [muhepd/mlbgamedayha](https://github.com/muhepd/mlbgamedayha) - MLB Gameday Dashboard for Home Assistant
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
-- [globetvapp/epg](https://github.com/globetvapp/epg) - Free EPG guides by country. Please free to donate us on the below website. Thank you!
 - [mrwhitwork-bit/Disc_Golf_Tracker](https://github.com/mrwhitwork-bit/Disc_Golf_Tracker) - This project will be an open source cheap code and hardware to build a disc golf tracking sensor
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
 - [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard) - Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic
