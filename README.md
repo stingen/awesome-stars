@@ -127,7 +127,7 @@
 
 ## Kotlin 
 
-- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, Continue Watching (Nuvio, Stremio, Trakt, Simkl), Library, 4K/HDR aerial screensaver, camera
+- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, trailers, music mode with a dynamic island, Continue Watching (Nuvio, Stremio, Trakt, Simkl)
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
@@ -296,6 +296,7 @@
 
 ## TypeScript 
 
+- [alexsto1an/ha-ani-weather-card](https://github.com/alexsto1an/ha-ani-weather-card) - Live weather, on your dashboard: a Home Assistant card that turns your forecast into a living sky, with a sun tracker to match.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
