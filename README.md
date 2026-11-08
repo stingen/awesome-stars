@@ -92,7 +92,6 @@
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
 - [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
-- [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
 - [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
 - [rusty4444/now-showing-ha](https://github.com/rusty4444/now-showing-ha) - Cinema-style Now Showing marquee display - For use with Home Assistant
@@ -298,6 +297,7 @@
 
 - [alexsto1an/ha-ani-weather-card](https://github.com/alexsto1an/ha-ani-weather-card) - Live weather, on your dashboard: a Home Assistant card that turns your forecast into a living sky, with a sun tracker to match.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [apocaliss92/scrypted-wyze-native](https://github.com/apocaliss92/scrypted-wyze-native) - 
 - [TheScubaDiver/camera-gallery-card](https://github.com/TheScubaDiver/camera-gallery-card) - Camera Gallery Card is a fast and interactive media gallery card for Home Assistant. Browse doorbell snapshots and recordings in a clean timeline view, filter by day, scrub through events, preview med
