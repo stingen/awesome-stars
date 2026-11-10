@@ -423,6 +423,7 @@
 
 ## others 
 
+- [ethanlee1276/App](https://github.com/ethanlee1276/App) - My sports app
 - [rajupp/talkies](https://github.com/rajupp/talkies) - A small, ad-free home screen for Android TV and Google TV
 - [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
 - [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
