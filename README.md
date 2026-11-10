@@ -165,6 +165,7 @@
 
 ## Python 
 
+- [ethanlee1276/App](https://github.com/ethanlee1276/App) - My sports app
 - [sebastianwilczek/ha-ps5](https://github.com/sebastianwilczek/ha-ps5) - Unofficial Home Assistant integration for the PS5: installed titles, purchased library, remote download queue and progress, and starting or cancelling remote downloads.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
