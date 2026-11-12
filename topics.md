@@ -315,7 +315,7 @@
 - [Liionboy/ha-fotmob-fixtures](https://github.com/Liionboy/ha-fotmob-fixtures) - Home Assistant integration for football fixtures, results and upcoming matches via FotMob
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
 - [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports Ticker brings live sports into Home Assistant with 19 entities, 400+ normalized attributes, and thousands of usable ESPN data points for powerful dashboards, cards, and automations.
-- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
+- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Monitor your cable modem's signal, errors and uptime in Home Assistant. Local only. Arris, Motorola, Netgear, Technicolor and other DOCSIS modems.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [Butter-mit-Brot/Openhome-Sync](https://github.com/Butter-mit-Brot/Openhome-Sync) - The Openhome Sync project is an application to synchronise Homeasisstant entitys with your pc screen.
@@ -394,7 +394,7 @@
 ## monitoring 
 
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
-- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
+- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Monitor your cable modem's signal, errors and uptime in Home Assistant. Local only. Arris, Motorola, Netgear, Technicolor and other DOCSIS modems.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [nichtlegacy/MediaWatch](https://github.com/nichtlegacy/MediaWatch) - Self-hosted Discord bot with one live dashboard for Plex or Jellyfin: active streams, library totals, server state, SABnzbd downloads and Uptime Kuma history.
 - [joobert/Mitten](https://github.com/joobert/Mitten) - Monitor GitHub repositories for new commits and send notifications to a specified Discord channel via webhooks.
