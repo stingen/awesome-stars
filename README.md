@@ -90,6 +90,7 @@
 - [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
 - [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
 - [Chaseos/ParamountQualityPlus](https://github.com/Chaseos/ParamountQualityPlus) - See and manage video streaming quality on Paramount+
@@ -175,7 +176,6 @@
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
 - [stevehoek/snapchat-dl](https://github.com/stevehoek/snapchat-dl) - Snapchat story downloader
 - [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
@@ -193,7 +193,7 @@
 - [kidabcd/ha-fotmob](https://github.com/kidabcd/ha-fotmob) - hacs compnent to fecth football data
 - [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection) - A Home Assistant integration to accurately and intelligently track occupancy of an area
 - [LiquidFXX/sports-ticker](https://github.com/LiquidFXX/sports-ticker) - Sports Ticker brings live sports into Home Assistant with 19 entities, 400+ normalized attributes, and thousands of usable ESPN data points for powerful dashboards, cards, and automations.
-- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Home Assistant integration for monitoring cable modem signal quality
+- [solentlabs/cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) - Monitor your cable modem's signal, errors and uptime in Home Assistant. Local only. Arris, Motorola, Netgear, Technicolor and other DOCSIS modems.
 - [isabellaalstrom/pet_health](https://github.com/isabellaalstrom/pet_health) - A custom integration for logging pet health in Home Assistant. Built very much with the help of Github Copilot.
 - [vinefeeder/TwinVine](https://github.com/vinefeeder/TwinVine) - A single uv install of two packages. Use the VineFeeder GUI for searching and batch downloading; use Envied - with a little bit extra - for command line downloading.
 - [joeblack2k/wyze-native](https://github.com/joeblack2k/wyze-native) - 
