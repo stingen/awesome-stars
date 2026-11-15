@@ -126,7 +126,7 @@
 
 ## Kotlin 
 
-- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, trailers, music mode with a dynamic island, Continue Watching (Nuvio, Stremio, Trakt, Simkl)
+- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs with trailers, app channels, music mode, Continue Watching (Nuvio, Stremio, Trakt, Simkl), 4K
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
