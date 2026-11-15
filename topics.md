@@ -295,7 +295,7 @@
 ## home-assistant 
 
 - [alexsto1an/ha-ani-weather-card](https://github.com/alexsto1an/ha-ani-weather-card) - Live weather, on your dashboard: a Home Assistant card that turns your forecast into a living sky, with a sun tracker to match.
-- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, trailers, music mode with a dynamic island, Continue Watching (Nuvio, Stremio, Trakt, Simkl)
+- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs with trailers, app channels, music mode, Continue Watching (Nuvio, Stremio, Trakt, Simkl), 4K
 - [sebastianwilczek/ha-ps5](https://github.com/sebastianwilczek/ha-ps5) - Unofficial Home Assistant integration for the PS5: installed titles, purchased library, remote download queue and progress, and starting or cancelling remote downloads.
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
@@ -359,11 +359,11 @@
 
 ## jetpack-compose 
 
-- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, trailers, music mode with a dynamic island, Continue Watching (Nuvio, Stremio, Trakt, Simkl)
+- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs with trailers, app channels, music mode, Continue Watching (Nuvio, Stremio, Trakt, Simkl), 4K
 
 ## kotlin 
 
-- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs, trailers, music mode with a dynamic island, Continue Watching (Nuvio, Stremio, Trakt, Simkl)
+- [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs with trailers, app channels, music mode, Continue Watching (Nuvio, Stremio, Trakt, Simkl), 4K
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 
 ## kubernetes 
