@@ -126,6 +126,7 @@
 
 ## Kotlin 
 
+- [tanujnotes/Supernova](https://github.com/tanujnotes/Supernova) - Open source alternative to Nova launcher. No network permission.
 - [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio & Stremio catalogs with trailers, app channels, music mode, Continue Watching (Nuvio, Stremio, Trakt, Simkl), 4K
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
@@ -181,6 +182,7 @@
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
+- [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
 - [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
 - [Coolver/home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent) - Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak them
