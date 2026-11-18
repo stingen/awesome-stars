@@ -106,6 +106,7 @@
 
 ## android 
 
+- [tanujnotes/Supernova](https://github.com/tanujnotes/Supernova) - Open source alternative to Nova launcher. No network permission.
 - [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
@@ -116,6 +117,7 @@
 
 ## android-app 
 
+- [tanujnotes/Supernova](https://github.com/tanujnotes/Supernova) - Open source alternative to Nova launcher. No network permission.
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 
 ## api 
@@ -570,6 +572,7 @@
 ## python 
 
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
+- [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [olbauday/FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights) - The ultimate FPL dataset including the 2026/27 season. Fuses official FPL API data with detailed match stats, dynamic team Elo ratings, and full cup, friendlies and Euro coverage. All data is aligned 
 - [adm1nsys/Ledvance-Smart-WiFi-E27-A60-Local-Control](https://github.com/adm1nsys/Ledvance-Smart-WiFi-E27-A60-Local-Control) - Command-line tool to control the LEDVANCE Smart+ WiFi E27 A60 RGBW bulb over the local network (TinyTuya, Tuya protocol 3.5).
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
@@ -643,6 +646,7 @@
 
 ## web 
 
+- [Student-FastDev/Pimeyes-Scraper](https://github.com/Student-FastDev/Pimeyes-Scraper) - Program for scraping data from Pimeyes website.
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) - A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
