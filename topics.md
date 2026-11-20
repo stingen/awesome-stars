@@ -78,6 +78,7 @@
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [tui](#tui)
 - [typescript](#typescript)
 - [video](#video)
 - [vim](#vim)
@@ -131,6 +132,7 @@
 - [agigante80/Actual-sync](https://github.com/agigante80/Actual-sync) - Automated bank sync service for Actual Budget - scheduled synchronization, real-time monitoring, and multi-budget management with Telegram notifications
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork with OnlyFans and Fansly support, reimagined from scratch based on the original onlyfans-scraper.
 
 ## awesome 
 
@@ -186,6 +188,7 @@
 
 - [MickeyPvX/espn-ffl](https://github.com/MickeyPvX/espn-ffl) - Rust CLI for querying, exporting, and predicting (kind of) ESPN Fantasy Football data.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork with OnlyFans and Fansly support, reimagined from scratch based on the original onlyfans-scraper.
 - [TuyaAPI/cli](https://github.com/TuyaAPI/cli) - 🔧 A CLI for Tuya devices
 
 ## clojure 
@@ -246,7 +249,7 @@
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
 - [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork with OnlyFans and Fansly support, reimagined from scratch based on the original onlyfans-scraper.
 
 ## electron 
 
@@ -584,6 +587,7 @@
 - [cubicbyte/reddit-account-generator](https://github.com/cubicbyte/reddit-account-generator) - Automatically generate reddit accounts
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork with OnlyFans and Fansly support, reimagined from scratch based on the original onlyfans-scraper.
 - [brah/plex-bot](https://github.com/brah/plex-bot) - Discord bot for your Plex server: streams, stats, charts and recommendations from Tautulli.
 
 ## react 
@@ -630,6 +634,10 @@
 ## terminal 
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
+
+## tui 
+
+- [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork with OnlyFans and Fansly support, reimagined from scratch based on the original onlyfans-scraper.
 
 ## typescript 
 
