@@ -443,7 +443,7 @@
 - [DeepHyperspace/dough-calculator-ha-card](https://github.com/DeepHyperspace/dough-calculator-ha-card) - Home Assistant Lovelace Card for calculating bread dough recipes with pre-ferments, timeline, and proofing time optimization
 - [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
-- [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA addon for shark2mqtt
+- [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA app for shark2mqtt
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
 - [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [algrym/govee-ble-h617a](https://github.com/algrym/govee-ble-h617a) - Govee BLE Lighting Integration for HomeAssistant
@@ -532,7 +532,7 @@
 - [AcidAlchamy/Acids-SportTorrent-Renamer](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer) - Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)
+- [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library powered by FFmpeg & DirectX
 - [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) - 1Fichier Download Manager.
 - [Veritas1000/pdst](https://github.com/Veritas1000/pdst) - DVR & sports tools that work with Plex
 - [robbydyer/sports](https://github.com/robbydyer/sports) - Raspberry Pi RGB Matrix controller for Sports Scoreboards (and others), written in Go
