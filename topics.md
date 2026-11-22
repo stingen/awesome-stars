@@ -428,6 +428,7 @@
 
 ## others 
 
+- [raydelw-a11y/ring-wyze-hub](https://github.com/raydelw-a11y/ring-wyze-hub) - Ring + Wyze 24/7 Smart Hub
 - [ethanlee1276/App](https://github.com/ethanlee1276/App) - My sports app
 - [rajupp/talkies](https://github.com/rajupp/talkies) - A small, ad-free home screen for Android TV and Google TV
 - [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
