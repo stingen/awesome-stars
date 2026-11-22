@@ -86,6 +86,7 @@
 
 ## JavaScript 
 
+- [raydelw-a11y/ring-wyze-hub](https://github.com/raydelw-a11y/ring-wyze-hub) - Ring + Wyze 24/7 Smart Hub
 - [wyze-smart-home/wyze-api](https://github.com/wyze-smart-home/wyze-api) - An un-official API wrapper for Wyze products
 - [ajstrick81/morphe-androidtv-patches](https://github.com/ajstrick81/morphe-androidtv-patches) - Patches for Android TV apks
 - [gdeboos/ha-liday-show](https://github.com/gdeboos/ha-liday-show) - Govee light-show sequencer packaged as a Home Assistant add-on
