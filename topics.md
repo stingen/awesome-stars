@@ -89,7 +89,7 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
 
 ## ai 
 
@@ -265,7 +265,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
 
 ## finance 
 
@@ -309,7 +309,7 @@
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
 - [sutty-2017/ha-espn-fantasy](https://github.com/sutty-2017/ha-espn-fantasy) - Home Assistant integration for ESPN Fantasy Football leagues and teams.
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
@@ -533,7 +533,7 @@
 - [AcidAlchamy/Acids-SportTorrent-Renamer](https://github.com/AcidAlchamy/Acids-SportTorrent-Renamer) - Python script to rename SportTorrents files to TSDB naming convention to appease SportScanner Plex agent for proper metadata parsing
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library powered by FFmpeg & DirectX
+- [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Windows Media Player & .NET Media Engine powered by FFmpeg & DirectX
 - [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) - 1Fichier Download Manager.
 - [Veritas1000/pdst](https://github.com/Veritas1000/pdst) - DVR & sports tools that work with Plex
 - [robbydyer/sports](https://github.com/robbydyer/sports) - Raspberry Pi RGB Matrix controller for Sports Scoreboards (and others), written in Go
