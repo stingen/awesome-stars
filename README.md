@@ -177,9 +177,9 @@
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
 - [stevehoek/snapchat-dl](https://github.com/stevehoek/snapchat-dl) - Snapchat story downloader
 - [lpleva/home-assistant-eero](https://github.com/lpleva/home-assistant-eero) - Eero integration for Home Assistant
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
-- [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
+- [B03GHB4L1/VizorPlay](https://github.com/B03GHB4L1/VizorPlay) - Football highlight reel generator from match event data
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) - IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streamin
 - [jordon31/OnlySnap](https://github.com/jordon31/OnlySnap) - Scrape OnlyFans #onlyfans -- #of-scr -- #onlyfans scrape -- #onlyfans-dl -- OnlyFans content downloader -- #of scrap -- #onlysnap - OnlyFans Scrape - Patreon #patreon - patreon scrape - scrape patreon
