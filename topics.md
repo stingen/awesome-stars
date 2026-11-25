@@ -89,7 +89,7 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 
 ## ai 
 
@@ -265,7 +265,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 
 ## finance 
 
@@ -309,7 +309,7 @@
 - [pallemannen/hass-scrape-att-gateway](https://github.com/pallemannen/hass-scrape-att-gateway) - Home Assistant Scraper for AT&T Internet Gateway
 - [sutty-2017/ha-espn-fantasy](https://github.com/sutty-2017/ha-espn-fantasy) - Home Assistant integration for ESPN Fantasy Football leagues and teams.
 - [willbeeching/ha-furbo](https://github.com/willbeeching/ha-furbo) - Home Assistant integration and add-on for Furbo dog cameras: live 1080p video, treat toss, pan, and smart-alert & activity sensors.
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 - [rononline/soccerlive-card](https://github.com/rononline/soccerlive-card) - HomeAssistant Card for SoccerLive integration
 - [ResiyHome/resiyhome-health-sync](https://github.com/ResiyHome/resiyhome-health-sync) - Read-only Google Health integration for Home Assistant
 - [rononline/soccerlive](https://github.com/rononline/soccerlive) - HomeAssistant Integration for Soccer - Leagues - Champions League and more
@@ -442,7 +442,7 @@
 - [schmittx/home-assistant-eero](https://github.com/schmittx/home-assistant-eero) - Eero integration for Home Assistant
 - [anasmadrhar/hass-android](https://github.com/anasmadrhar/hass-android) - Home Assistant Companion for Android
 - [DeepHyperspace/dough-calculator-ha-card](https://github.com/DeepHyperspace/dough-calculator-ha-card) - Home Assistant Lovelace Card for calculating bread dough recipes with pre-ferments, timeline, and proofing time optimization
-- [B03GHB4L1/ClipMaker](https://github.com/B03GHB4L1/ClipMaker) - Football highlight reel generator from match event data
+- [B03GHB4L1/VizorPlay](https://github.com/B03GHB4L1/VizorPlay) - Football highlight reel generator from match event data
 - [konewka17/timeline_card](https://github.com/konewka17/timeline_card) - 
 - [400HPMustang/shark2mqtt-addon](https://github.com/400HPMustang/shark2mqtt-addon) - AI assisted attempt at builing a HA app for shark2mqtt
 - [feldorn/free-games-claimer](https://github.com/feldorn/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.
