@@ -108,7 +108,7 @@
 ## android 
 
 - [tanujnotes/Supernova](https://github.com/tanujnotes/Supernova) - Open source alternative to Nova launcher. No network permission.
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. €
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [avadhesh18/at4k](https://github.com/avadhesh18/at4k) - AT4K Launcher
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -302,7 +302,7 @@
 - [alexsto1an/ha-ani-weather-card](https://github.com/alexsto1an/ha-ani-weather-card) - Live weather, on your dashboard: a Home Assistant card that turns your forecast into a living sky, with a sun tracker to match.
 - [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio, Stremio & Jellyfin catalogs with trailers, search, app channels, music mode, Continue Watching (Nuvio, Stremio,
 - [sebastianwilczek/ha-ps5](https://github.com/sebastianwilczek/ha-ps5) - Unofficial Home Assistant integration for the PS5: installed titles, purchased library, remote download queue and progress, and starting or cancelling remote downloads.
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. €
 - [jorgediez/ha-youtube-on-tv](https://github.com/jorgediez/ha-youtube-on-tv) - See and control the YouTube app on your TV from Home Assistant: what's playing, mute ads, auto-skip them, manage the queue.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [jpcsousa12/ha-sportsradar](https://github.com/jpcsousa12/ha-sportsradar) - Home Assistant team tracker using the SofaScore API. Fork of vasqued2/ha-teamtracker (GPL-3.0), migrated from ESPN.
@@ -369,7 +369,7 @@
 ## kotlin 
 
 - [mohammadmrh12/glassio](https://github.com/mohammadmrh12/glassio) - Glassio — an Apple TV-style home screen for Google TV / Android TV: liquid glass, Nuvio, Stremio & Jellyfin catalogs with trailers, search, app channels, music mode, Continue Watching (Nuvio, Stremio,
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. €
 
 ## kubernetes 
 
@@ -603,7 +603,7 @@
 
 ## self-hosted 
 
-- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. P
+- [owen282000/life-dashboard-companion-app](https://github.com/owen282000/life-dashboard-companion-app) - Send Health Connect and screen time per app from your Android phone to Home Assistant, MQTT or your own webhook. 34 data types, a backfill of all your history, HMAC-signed, no cloud and no trackers. €
 - [germondai/trawl](https://github.com/germondai/trawl) - Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
